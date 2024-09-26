@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
     // const pi = 3.14; //constant value
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.deepPurple,
         title: Text(
           "Catalog App",
           style: TextStyle(color: Colors.white),
